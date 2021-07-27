@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"Harrison Ford"
+	],
+	"copyright": "Copyright © 2021, Harrison Ford",
+	"dependencies": {
+		"vibe-d": "~>0.9.3"
+	},
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "example-vibe-d"
+}
